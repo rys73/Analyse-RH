@@ -29,7 +29,7 @@ Ce projet Python montre l'utilisation de **pandas**, **seaborn** et **matplotlib
    - PDF avec visualisations : heatmap et distribution des performances par département
 
  ## Outils utilisées
- - Python 3.x
+ - Python
  - pandas
  - seaborn
  - matplotlib
